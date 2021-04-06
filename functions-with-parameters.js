@@ -1,5 +1,15 @@
 /* Opdracht 0: voorbeeld */
+// Schrijf een functie genaamd add, die twee getallen verwacht, die bij elkaar optelt en teruggeeft
+// ---- Verwachte uitkomsten:
+// add(1, 4) geeft 5
+// add(2, 5) geeft 7
 
+function add(a, b) {
+  return a + b;
+}
+
+const result = add(1, 4);
+console.log(result);
 
 /* Opdracht 1 */
 // Schrijf een functie genaamd greeter, die een naam verwacht en een groet teruggeeft
