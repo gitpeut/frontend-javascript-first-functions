@@ -1,6 +1,6 @@
 # Opdracht beschrijving
 
-Deze opdracht bestaat uit meerdere opdrachttjes om met eenvoudige functies te kunnen oefenen. Om de opdracht te maken kun je de opdracht clonen of downloaden naar jouw eigen computer. De uitwerkingen staan op de branch _uitwerkingen_.
+Deze opdracht bestaat uit meerdere opdrachtjes om met eenvoudige functies te kunnen oefenen. Om de opdracht te maken kun je de opdracht clonen of downloaden naar jouw eigen computer. De uitwerkingen staan op de branch _uitwerkingen_.
 
 Dit project bevat de volgende bestanden:
 
