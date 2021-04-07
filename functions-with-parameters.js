@@ -24,7 +24,7 @@ console.log(result);
 // ---- Verwachte uitkomsten:
 // minutesToSeconds(1) geeft 60
 // minutesToSeconds(3) geeft 180
-// minutesToSeconds(23) geeft 1840
+// minutesToSeconds(23) geeft 1380
 
 
 
